@@ -39,7 +39,7 @@ public class WhenCreatingObjects {
 
     @Test
     public void whenAnimalsPlay() {
-// TODO: Uncomment me
+ // TODO: Uncomment me
 
         Pet fido = new Dog("Fido","Bone", 5);
         Pet spot = new Cat("Spot","String", 5);
